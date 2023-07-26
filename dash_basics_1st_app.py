@@ -38,4 +38,19 @@ app.layout = html.Div(children=[html.H1('Airline Dashboard',
 if __name__ == '__main__':
     app.run_server()
 
+# You will practice some tasks to update the dashboard.
 
+# Change the title to the dashboard from “Airline Dashboard” to “Airline On-time Performance Dashboard” using HTML H1 component and font-size as 50.
+
+# Answer
+# html.H1(‘Airline On-time Performance Dashboard’,style={‘textAlign’: ‘center’, ‘color’: ‘#503D36’, ‘font-size’: 50}),
+
+# Save the above changes and relaunch the dashboard application to see the updated dashboard title.
+
+# Answer:Press ctrl+c inside the terminal to stop the dash application then
+# Click on file –> save file.Then go to terminal and Run the command python3 dash_basics.py to open the updated file again and relaunch the application by entering the port number.The updated dashboard title will be seen.
+
+# Write a command to stop the running app in the terminal
+
+# Answer
+# Press ctrl+c inside the terminal to stop the dash application.
