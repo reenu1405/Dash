@@ -45,8 +45,8 @@ if __name__ == '__main__':
 # Answer
 # html.H1(‘Airline On-time Performance Dashboard’,style={‘textAlign’: ‘center’, ‘color’: ‘#503D36’, ‘font-size’: 50}),
 
-# Save the above changes and relaunch the dashboard application to see the updated dashboard title.
-
+# Save the above changes and relaunch the dashboard application to see the updated dashboard title. see the updated reult in below path:
+dash_basics_app.py
 # Answer:Press ctrl+c inside the terminal to stop the dash application then
 # Click on file –> save file.Then go to terminal and Run the command python3 dash_basics.py to open the updated file again and relaunch the application by entering the port number.The updated dashboard title will be seen.
 
